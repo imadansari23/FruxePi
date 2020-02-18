@@ -62,7 +62,7 @@
                               <?php echo form_open("technical/pump/edit/schedule"); ?>
                               <div class="form-group row">
                                     <div class="col-sm-6 pt-3">
-                                          <h5>Pump ON</h5>
+                                          <h5>Pump ONE</h5>
                                           <div class="input-group mb-2">
                                                 <div class="input-group-prepend">
                                                       <div class="input-group-text"><i class="far fa-clock"></i></div>
